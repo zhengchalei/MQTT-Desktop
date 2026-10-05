@@ -66,7 +66,7 @@
 从 [Releases](https://github.com/zhengchalei/MQTT-Desktop/releases/latest) 下载：
 
 - **便携版**：解压 `MQTT-Desktop-0.1.0-windows-amd64.zip`，运行 `MQTT Desktop.exe`，保留同目录的 `icon.png`。
-- **安装版**：运行 `MQTT Desktop Setup 0.1.0.exe`。
+- **安装版**：运行 `MQTT.Desktop.Setup.0.1.0.exe`。
 - **从源码构建**：运行 `go tool mygo build`，产物位于 `build/windows-amd64/`。
 
 ## 使用
